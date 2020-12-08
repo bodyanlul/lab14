@@ -1,0 +1,13 @@
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\bin\Debug\netcoreapp3.1\Lab14.exe
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\bin\Debug\netcoreapp3.1\Lab14.deps.json
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\bin\Debug\netcoreapp3.1\Lab14.runtimeconfig.json
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\bin\Debug\netcoreapp3.1\Lab14.runtimeconfig.dev.json
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\bin\Debug\netcoreapp3.1\Lab14.dll
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\bin\Debug\netcoreapp3.1\Lab14.pdb
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\obj\Debug\netcoreapp3.1\Lab14.csprojAssemblyReference.cache
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\obj\Debug\netcoreapp3.1\Lab14.AssemblyInfoInputs.cache
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\obj\Debug\netcoreapp3.1\Lab14.AssemblyInfo.cs
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\obj\Debug\netcoreapp3.1\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\obj\Debug\netcoreapp3.1\Lab14.dll
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\obj\Debug\netcoreapp3.1\Lab14.pdb
+C:\Users\bogdan\Desktop\Lab14-master\Lab14\obj\Debug\netcoreapp3.1\Lab14.genruntimeconfig.cache
